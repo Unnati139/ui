@@ -1,0 +1,22 @@
+.clockbox{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 9px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    width: 116px;
+    height: 20px;
+    background: linear-gradient(102.21deg, #FFAE0F 3.69%, #FD2CF5 102.03%); 
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.14);
+    border-radius: 10px;
+    color: #fff;
+}
+.imagebox{
+    /* background-image: url("/Json/Rectangle_20.png"); */
+    /* background-image: url("./asset/Rectangle20.png"); */
+    background-size: cover;
+    background-repeat: repeat;
+}
